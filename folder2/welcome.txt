@@ -1,0 +1,1 @@
+Welcome to folder2 of git workspace.
